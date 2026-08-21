@@ -32,10 +32,10 @@ My passion is helping others succeed in business through professional communicat
 
 ### 📊 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedafifiabodu&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedafifiabodu&theme=radical&hide_border=true" alt="Ahmed's GitHub streak" height="165"/>
+<img src="https://github-readme-stats-orcin-eight-25.vercel.app/api?username=ahmedafifiabodu&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=ahmedafifiabodu&theme=radical&hide_border=true" alt="Ahmed's GitHub streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedafifiabodu&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats-orcin-eight-25.vercel.app/api/top-langs/?username=ahmedafifiabodu&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
 
 ---
 
